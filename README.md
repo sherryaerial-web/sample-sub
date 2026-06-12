@@ -3,7 +3,7 @@
 
 A self-serve dynamic scheduling and substitution management interface built for boutique studios and fitness centers.
 
-![Live Demo](#) <!-- 換成這個模組的 GitHub Pages 網址 -->
+![Live Demo](https://sherryaerial-web.github.io/sample-sub/)
 ![License: MIT](https://opensource.org/licenses/MIT)
 
 ## 📖 About The Project
