@@ -28,9 +28,7 @@ This system eliminates manual scheduling friction by empowering instructors with
 
 ## 📸 Screenshots & Demo
 
-*(你可以將剛剛下載的 demo.gif 拖曳上傳到你的 GitHub Repo 裡，然後將下方連結換成 GIF 的網址)*
-
-!System Demo
+https://uploads.tw/i/Z37cV2pIbK
 
 ## 🚀 Getting Started
 
